@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">Seja bem-vindo(a) ao Github da Conecta+ 🧩</h1>
-<p align="center">Nascemos para evoluir o mercado e fornecer igualdade e respeito por cada pessoa em suas condições</p>
+<p align="center">Nascemos para evoluir o mercado e fornecer igualdade e respeito por cada pessoa em suas condições.</p>
 
 ---
 
