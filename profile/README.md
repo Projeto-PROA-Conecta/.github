@@ -34,12 +34,7 @@
 <h2 align="center">Conheça nossa equipe 🤝💼</h2>
 <br><br>
 <div align="center">
-     <img src="https://github.com/Projeto-PROA-Conecta/.github/blob/main/profile/Integrantes.png" alt='Integrantes Conecta+'
+     <a href="https://linktr.ee/conectamaisproa" target="_blank"><img src="https://github.com/Projeto-PROA-Conecta/.github/blob/main/profile/Integrantes.png" alt='Integrantes Conecta+'
 </div>
-
----
 
 <h2 align="center">Entre em contato conosco 💬</h2>
-<div align='center'>
-<a href="https://linktr.ee/conectamaisproa" target="_blank"><img src="https://github.com/Projeto-PROA-Conecta/.github/blob/main/profile/Linktree.svg" alt='Linktree' width="10%"></a>
-</div>
