@@ -26,7 +26,7 @@
 
 <h2 align="center">Acesse nossa plataforma 🌐🔗</h2>
 <div align='center'>
-  <img src="https://github.com/Projeto-PROA-Conecta/.github/blob/main/profile/Contas.png" alt='Home Conecta+' width="70%"></a>
+  <img src="https://github.com/Projeto-PROA-Conecta/.github/blob/main/profile/Contas.png" alt='Home Conecta+' width="70%">https://plataforma-conectamais.vercel.app</a>
 </div>
 
 ---
